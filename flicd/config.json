@@ -4,6 +4,7 @@
   "version": "1.2",
   "slug": "flicd",
   "description": "React to flic button presses",
+  "arch": ["amd64", "i386"],
   "startup": "services",
   "boot": "auto",
   "ports": {
